@@ -1,0 +1,101 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Sakshi Ishwar Patil",
+        "course": "MCA",
+        "semester": 1,
+        "email": "sakshi.patil@example.com",
+        "phone": "9000000001",
+        "marks": 84
+    },
+    {
+        "student_id": "S002",
+        "name": "Sanika Patil",
+        "course": "MCA",
+        "semester": 1,
+        "email": "sanika.patil@example.com",
+        "phone": "9000000002",
+        "marks": 79
+    },
+    {
+        "student_id": "S003",
+        "name": "Soham Patil",
+        "course": "MCA",
+        "semester": 1,
+        "email": "soham.patil@example.com",
+        "phone": "9000000003",
+        "marks": 82
+    },
+    {
+        "student_id": "S004",
+        "name": "Shubham Sukhdare",
+        "course": "MCA",
+        "semester": 1,
+        "email": "shubham.sukhdare@example.com",
+        "phone": "9000000004",
+        "marks": 76
+    },
+    {
+        "student_id": "S005",
+        "name": "Sara Wadke",
+        "course": "MCA",
+        "semester": 1,
+        "email": "sara.wadke@example.com",
+        "phone": "9000000005",
+        "marks": 88
+    },
+    {
+        "student_id": "S006",
+        "name": "Abhinav B P",
+        "course": "MCA",
+        "semester": 1,
+        "email": "abhinav.p@example.com",
+        "phone": "9000000006",
+        "marks": 91
+    },
+    {
+        "student_id": "S007",
+        "name": "Shravan Dubal",
+        "course": "MCA",
+        "semester": 1,
+        "email": "shravan.dubal@example.com",
+        "phone": "9000000007",
+        "marks": 86
+    },
+    {
+        "student_id": "S008",
+        "name": "Divya More",
+        "course": "MCA",
+        "semester": 1,
+        "email": "divya.more@example.com",
+        "phone": "9000000008",
+        "marks": 89
+    },
+    {
+        "student_id": "S009",
+        "name": "Devashree Patil",
+        "course": "MCA",
+        "semester": 1,
+        "email": "devashree.patil@example.com",
+        "phone": "9000000009",
+        "marks": 81
+    },
+    {
+        "student_id": "S010",
+        "name": "Ankit Sachin Kulkarni",
+        "course": "MCA",
+        "semester": 1,
+        "email": "ankit.kulkarni@example.com",
+        "phone": "9000000010",
+        "marks": 87
+    },
+    {
+        "student_id": "S011",
+        "name": "Deeya Mathur",
+        "course": "MCA",
+        "semester": 1,
+        "email": "deeya.mathur@example.com",
+        "phone": "1234567898",
+        "marks": 50.0
+    }
+]
